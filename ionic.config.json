@@ -1,0 +1,7 @@
+{
+  "name": "ChatFP1APPM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
